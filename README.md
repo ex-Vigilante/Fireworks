@@ -10,4 +10,4 @@ A tiny interactive fireworks show in a single HTML file — no libraries, no bui
 ## Run it
 Open `index.html` in any browser.
 
-**Live demo:** https://ex-vigilante.github.io/fireworks/
+**Live demo:** https://ex-vigilante.github.io/Fireworks/
